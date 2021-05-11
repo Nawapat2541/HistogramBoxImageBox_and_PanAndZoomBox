@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistogramBoxImageBox_and_PanAndZoomBox", "HistogramBoxImageBox_and_PanAndZoomBox.csproj", "{F6010BEC-FCE4-4F23-ADB7-C5CA83D1D29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6010BEC-FCE4-4F23-ADB7-C5CA83D1D29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6010BEC-FCE4-4F23-ADB7-C5CA83D1D29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6010BEC-FCE4-4F23-ADB7-C5CA83D1D29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6010BEC-FCE4-4F23-ADB7-C5CA83D1D29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975BA111-A3B8-47F2-8EAC-89B7EFF08073}
+	EndGlobalSection
+EndGlobal
